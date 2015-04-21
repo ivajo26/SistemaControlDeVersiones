@@ -3,10 +3,11 @@ var SLIDE_CONFIG = {
   settings: {
     title: 'Sistemas Control de Versiones',
     subtitle: 'Ingenieria de Software',
-    //eventInfo: {
-    //  title: 'Google I/O',
-    //  date: '6/x/2013'
-    //},
+    eventInfo: {
+      title: 'Segundo Corte',
+      date: '21/04/2015',
+      ko: 'Universidad de Cordoba'
+    },
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
@@ -22,11 +23,9 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Ivan Diaz, Alonso Diaz',
+    name: 'Ivan Diaz, Alonso Diaz, Luis Estrada, Neder Fandiño',
     carrera: 'Ingenieria de Sistemas y Telecomunicaiones',
-    universidad: 'Universidad de Cordobagit sadf',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    universidad: 'Universidad de Cordoba',
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
