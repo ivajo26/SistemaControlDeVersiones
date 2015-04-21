@@ -24,7 +24,7 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: 'Ivan Diaz, Alonso Diaz',
     carrera: 'Ingenieria de Sistemas y Telecomunicaiones',
-    universidad: 'Universidad de Cordoba',
+    universidad: 'Universidad de Cordobagit sadf',
     www: 'http://www.you.com',
     github: 'http://github.com/you'
   }/*, {
